@@ -1,2 +1,2 @@
-# resumo_Computa-o-Em-Nuvem
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+# resumo_Nuvem-lab
+Este lab serviu como uma tour do portal do Microsoft Azure, mostrando como acessar os diferentes serviços a partir das categorias fornecidas.
